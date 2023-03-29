@@ -1,0 +1,96 @@
+.masthead{
+    background-size: cover;
+    min-height: 50vh;
+    position: relative;
+    text-shadow: 2px 2px 2px rgba(255,255,255, 0.4);
+}
+q {
+    font-size: 1.2rem;
+    margin: auto;
+    text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #fff;
+}
+.color-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .5);
+}
+.hero-text {
+   padding: 100px 0;
+}
+h1 {
+    text-align: center;
+    margin: 15px auto;
+}
+h3 {
+    font-size: 1.2rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    font-size: 1.1 rem;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.faith {
+  width: 100%;
+  height: 30vh;
+  object-fit: cover;
+}
+form {
+    margin-top:50px;
+
+}
+input{
+    border: 15px solid black;
+}
+.btn1 {
+    border: none;
+    outline: none;
+    height:50px;
+    width:50%;
+    background-color: #ff0000;
+    color: #fff;
+    border-radius: 20px;
+}
+.btn1:hover {
+    background-color: #fff;
+    border: 1px solid;
+    color:#000;
+}
+.container {
+    width: 70vw;
+    background-color: #000;
+    color: #fff;
+    border-radius: 30px;
+    box-shadow: -12px -10px 40px grey;
+    margin-top: 100px;
+    margin-bottom: 400px;
+}
+form{
+    width:50%;
+    margin: 0 auto;
+}
+.conclusion {
+    background-color: #000;
+    color: #fff;
+
+}
+footer {
+    width:70vw;
+    justify-content: left;
+   
+}
+.foot-text {
+    text-align: left;
+}
+.socials {
+    padding: 50px;
+    
+}
+
+
